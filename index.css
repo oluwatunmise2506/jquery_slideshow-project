@@ -1,0 +1,46 @@
+div img {
+    width: 680px;
+    position: absolute;
+}
+
+ html body{
+    background-color: pink;
+    height: 100%;
+    padding:0;
+    margin:0;
+}
+
+div {
+    background-color: pink;
+    height: 100%;
+    padding:0;
+    margin:0;
+    
+}
+
+
+#prev-btn {
+    height: 50px;
+    position: absolute;
+    margin-left:10px;
+    background-color:purple;
+    width: 70px;
+    border-radius: 6px;
+    text-align: center;
+    color: firebrick;
+    font-size: large;
+    font-weight: 300;
+}
+
+#next-btn{
+    color: chartreuse;
+    position: absolute;
+    margin-left:600px;
+    background-color:goldenrod;
+    width: 70px;
+    border-radius: 6px;
+    text-align: center;
+    height: 50px;
+    font-size: large;
+    font-weight: 300;
+}
